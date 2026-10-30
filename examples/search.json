@@ -1,0 +1,61 @@
+{
+  "query": "one piece",
+  "total": 5,
+  "results": [
+    {
+      "id": 6,
+      "slug": "one-piece-subtitle-indonesia",
+      "title": "One Piece",
+      "thumbnail": "https://gbr.sokuja.uk/wp-content/uploads/2022/08/sokuja-one-piece-indo.jpg",
+      "type": "TV",
+      "status": "Hiatus",
+      "year": 1999,
+      "score": "8.72",
+      "viewCount": 1219940
+    },
+    {
+      "id": 485,
+      "slug": "one-piece-gyojin-tou-hen-subtitle-indonesia",
+      "title": "One Piece: Gyojin Tou-hen",
+      "thumbnail": "https://gbr.sokuja.uk/wp-content/uploads/2024/11/sokuja-one-piece-fishman-island-1.jpg",
+      "type": "TV",
+      "status": "Completed",
+      "year": 2024,
+      "score": "8.22",
+      "viewCount": 4166
+    },
+    {
+      "id": 482,
+      "slug": "one-piece-fan-letter-subtitle-indonesia",
+      "title": "One Piece Fan Letter",
+      "thumbnail": "https://gbr.sokuja.uk/wp-content/uploads/2024/10/sokuja-one-piece-fan-letter.jpg",
+      "type": "TV",
+      "status": "Completed",
+      "year": 2024,
+      "score": "9.24",
+      "viewCount": 478
+    },
+    {
+      "id": 43,
+      "slug": "monsters-ippyaku-sanjou-hiryuu-jigoku-subtitle-indonesia",
+      "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
+      "thumbnail": "https://gbr.sokuja.uk/wp-content/uploads/2024/01/SOKUJA-Monsters-Ippyaku-Sanjou-Hiryuu-Jigoku-Subtitle-Indonesia.jpg",
+      "type": "ONA",
+      "status": "Completed",
+      "year": 2024,
+      "score": "7.7",
+      "viewCount": 372
+    },
+    {
+      "id": 156,
+      "slug": "one-piece-film-red-subtitle-indonesia",
+      "title": "One Piece Film: Red",
+      "thumbnail": "https://gbr.sokuja.uk/wp-content/uploads/2022/11/one.piece_.red_.film_.jpg",
+      "type": "Movie",
+      "status": "Completed",
+      "year": 2022,
+      "score": "7.82",
+      "viewCount": 1038
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "mairimashita-iruma-kun-season-3-episode-5-subtitle-indonesia",
+  "title": "Mairimashita! Iruma-kun Season 3 Episode 5 Subtitle Indonesia",
+  "episodeId": 1807,
+  "playlist": {
+    "prev": {
+      "slug": "mairimashita-iruma-kun-season-3-episode-4-subtitle-indonesia",
+      "episodeNumber": 4
+    },
+    "next": {
+      "slug": "mairimashita-iruma-kun-season-3-episode-6-subtitle-indonesia",
+      "episodeNumber": 6
+    },
+    "total": 21
+  },
+  "video": {
+    "mirrors": [
+      {
+        "serverName": "SOKUJA",
+        "quality": "720p",
+        "embedType": "mp4",
+        "embedUrl": "https://global.nontony.uk/video2/mairimashita_iruma/s3/sokuja.iruma.kun.s3.5.720p.mp4",
+        "directUrl": "https://global.nontony.uk/video2/mairimashita_iruma/s3/sokuja.iruma.kun.s3.5.720p.mp4",
+        "alternates": []
+      }
+    ],
+    "videoHostFallbacks": [
+      "storages.sokuja.uk",
+      "ww.opqrstuvwxyz.uk",
+      "youtube.jantan.net",
+      "storages.sokuja.id"
+    ],
+    "videoHostFallbackGroups": [
+      [
+        "storages.sokuja.uk",
+        "ww.opqrstuvwxyz.uk",
+        "youtube.jantan.net",
+        "storages.sokuja.id"
+      ],
+      [
+        "global.nontony.uk",
+        "global.gyebcnc.uk"
+      ]
+    ]
+  }
+}

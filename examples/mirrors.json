@@ -1,0 +1,29 @@
+{
+  "mirrors": [
+    {
+      "id": 2039,
+      "serverName": "SOKUJA",
+      "embedUrl": "https://global.nontony.uk/video2/mairimashita_iruma/s3/sokuja.iruma.kun.s3.5.720p.mp4",
+      "embedType": "mp4",
+      "quality": "720p"
+    }
+  ],
+  "videoHostFallbacks": [
+    "storages.sokuja.uk",
+    "ww.opqrstuvwxyz.uk",
+    "youtube.jantan.net",
+    "storages.sokuja.id"
+  ],
+  "videoHostFallbackGroups": [
+    [
+      "storages.sokuja.uk",
+      "ww.opqrstuvwxyz.uk",
+      "youtube.jantan.net",
+      "storages.sokuja.id"
+    ],
+    [
+      "global.nontony.uk",
+      "global.gyebcnc.uk"
+    ]
+  ]
+}
